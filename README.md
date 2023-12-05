@@ -9,4 +9,5 @@
 7. #### Making prediction with our model (Regression)
 8. #### Evaluating a machine learning model (Score)
 9. #### Evaluating a machine learning model (Cross validation)
-10. #### Evaluating a machine learning model (Accuracy, ROC Curve/AUC)
+10. #### Evaluating a classification model (Accuracy, ROC Curve/AUC)
+11. #### Evalutating a classification model (Confusion Matrix)
