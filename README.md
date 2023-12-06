@@ -15,3 +15,4 @@
 13. #### Evaluating a regression model (R2 Score)
 14. #### Evaluating a regression model (MAE)
 15. #### Evaluating a regression model (MSE)
+16. #### Evaluating a model with cross validation and scoring parameter
