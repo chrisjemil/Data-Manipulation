@@ -23,3 +23,4 @@
 21. #### Saving and loading a model with Python's `pickle` module
 22. #### Saving and loading a model with the `joblib` module
 23. #### Putting it all together with a `Pipeline`
+24. #### Using `GridSearchCV` or `RandomizedSesrchCV` with our Pipeline.
