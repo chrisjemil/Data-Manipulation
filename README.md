@@ -18,3 +18,4 @@
 16. #### Evaluating a model with cross validation and scoring parameter
 17. #### Evaluating a model with Scikit-learn Functions
 18. #### Improving a machine learning model - Tunning Hyperparameters `By Hand`
+19. #### Improving a machine learning model - Tunning Hyperparameters `Randomly with RandomSearchCV`
