@@ -20,3 +20,4 @@
 18. #### Improving a machine learning model - Tunning Hyperparameters `By Hand`
 19. #### Improving a machine learning model - Tunning Hyperparameters `Randomly with RandomSearchCV`
 20. #### Improving a machine learning model - Tunning Hyperparameters `GridSearchCV`
+21. #### Saving and loading a model with Python's `pickle` module
