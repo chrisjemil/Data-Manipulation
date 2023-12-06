@@ -16,3 +16,4 @@
 14. #### Evaluating a regression model (MAE)
 15. #### Evaluating a regression model (MSE)
 16. #### Evaluating a model with cross validation and scoring parameter
+17. #### Evaluating a model with Scikit-learn Functions
