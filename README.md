@@ -14,3 +14,4 @@
 12. #### Evaluating a classification model (Classification Report)
 13. #### Evaluating a regression model (R2 Score)
 14. #### Evaluating a regression model (MAE)
+15. #### Evaluating a regression model (MSE)
